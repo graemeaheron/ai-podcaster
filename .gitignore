@@ -1,0 +1,6 @@
+.env
+/data/inputs/notes/*
+/data/outputs/audio/narrative_histories/*
+/data/outputs/text/narrative_histories/*
+/__pycache__/
+.DS_Store
